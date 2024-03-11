@@ -12,7 +12,7 @@ int main()
 	Controller con;
 	con.getEnv();
 
-
+	Circle c;
 
 	con.delEnv();
     return 0;
